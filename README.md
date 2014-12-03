@@ -8,7 +8,8 @@ TODO: Write Abstract / Demo
 
 ### Motivation
 
-日報書くの楽したい。
+人生色々楽したい。
+* 日報書くの楽にしたい
 
 ### Requirement
 TODO: Write requirement
