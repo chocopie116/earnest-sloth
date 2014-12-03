@@ -1,6 +1,8 @@
 earnest-sloth
 =========================
 
+<img align="right" height="260" src="https://raw.githubusercontent.com/chocopie116/earnest-sloth/master/doc/icon.png">
+
 ## Abstract / Demo
 TODO: Write Abstract / Demo
 
