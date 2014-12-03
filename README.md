@@ -3,29 +3,25 @@ earnest-sloth
 
 <img align="right" height="260" src="https://raw.githubusercontent.com/chocopie116/earnest-sloth/master/doc/icon.png">
 
-## Abstract / Demo
+### Abstract / Demo
 TODO: Write Abstract / Demo
 
-## Motivation
+### Motivation
 
 日報書くの楽したい。
 
-## Requirement
+### Requirement
 TODO: Write requirement
 
-## Setup
+### Setup
 
 TODO: Write setup
 
-## Usage
+### Usage
 
 TODO: Write history
 
-## Test
-
-TODO: Write history
-
-## Contributing
+### Contributing
 
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
@@ -33,10 +29,10 @@ TODO: Write history
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## History
+### History
 
 TODO: Write history
 
-## Licence
+### Licence
 
 [MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
